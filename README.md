@@ -1,4 +1,5 @@
-# turkce_akorlar_sozler_veritabani
+# Türkçe akorlar ve sözler veritabanı
+
 2019 türkçe akor ve sözler veritabanı
 
 python3 ile yaptığım ufak bir script ile birkaç siteden toparlamış olduğum genellikle türkçe parçaların ve sanatçıların bulunduğu
