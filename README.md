@@ -18,3 +18,6 @@ içerisinde :
 
 boyutu 6mbdir
 
+![akorlar](https://i.ibb.co/xXV0SGn/Ads-z.png)
+
+![sanatcilar](https://i.ibb.co/9b41vLj/asdf.png)
